@@ -1,1 +1,1 @@
-# magic-task
+# magic.fit data science assessment
