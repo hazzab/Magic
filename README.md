@@ -1,1 +1,1 @@
-# Magic
+# magic-task
